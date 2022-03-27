@@ -7,7 +7,7 @@ const initialState = {
 }
 
 export const navSlice = createSlice({
-    name: "nav",
+    name: "navbar",
     initialState,
     reducer: {
         setOrigin: (state , action) => {
