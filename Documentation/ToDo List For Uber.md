@@ -7,8 +7,9 @@
 ## Push to github repo:
 	https://github.com/pranavgaikwadcodes/Uber-Clone.git
 
+---
 
-## ToDo List (according to video Timestamps):
+## ToDo List For Team (according to video Timestamps):
 
 * ### [Pranav: (43min 12sec)](https://youtu.be/bvn_HYpix6s?t=2640 "Start Building")
 	* 44:01 Building the HomeScreen Component
@@ -43,12 +44,12 @@
 
 * ### Pranav:
 	* Bug Fixing
+---
 
+## Project Deadline:
 
+|	Devlopment	|	Documentation	|	Submission	|
+|	---		|	---		|	---		|
+|9th of March 2022	|13th of March 2022	|15th of March 2022	|
 
-
-## Project Devlopment Deadline:
-	To be completed by 7th of March, 12:00 AM
-
-## Project Documentation Deadline:
-	To be completed by 10th of March.
+>Happy Coding!
