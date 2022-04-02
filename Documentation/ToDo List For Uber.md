@@ -1,14 +1,14 @@
-Project Topic : Uber-Clone
+# Project Topic : Uber-Clone
 
-Video to be followed:
+### Video to be followed:
 	https://youtu.be/bvn_HYpix6s
 
 
-Push to github repo:
+### Push to github repo:
 	https://github.com/pranavgaikwadcodes/Uber-Clone.git
 
 
-ToDo List (according to video Timestamps):
+### ToDo List (according to video Timestamps):
 
 	Pranav: (43min 12sec)
 		44:01 Building the HomeScreen Component
