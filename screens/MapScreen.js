@@ -4,11 +4,16 @@ import React from 'react'
 const MapScreen = () => {
   return (
     <View>
-      <Text>MapScreen</Text>
+      <Text>Here is the map stuff...</Text>
+
+      <View style={tw}></View>
+      
+      <View style={tw}></View>
+
     </View>
-  )
-}
+  );
+};
 
 export default MapScreen
 
-const styles = StyleSheet.create({})
+const styles = StyleSheet.create({});
